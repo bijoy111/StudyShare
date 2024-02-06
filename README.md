@@ -8,3 +8,26 @@ Availabe page:
 3. Materials Page ( filter with dropdown menu , upload material and view material functionality )
 4. Upload Material form ( necessary information with choose file option and Modal form ( click preview to see it)
 5. View Material/product page ( including give rating option , give review option , and you can see the review given with testimonial slider template in bootstrap)
+
+# Web pages of this project
+><img src ="./README_ASSETS/login.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/course_list.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/add_course.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/edit_course.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/material_list.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/filter.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/upload_material_form.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/preview.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/course_review1.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/course_review2.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
+>
+><img src ="./README_ASSETS/course_review3.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
